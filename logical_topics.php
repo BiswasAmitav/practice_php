@@ -51,8 +51,6 @@ if($age>=18 xor $age<=21){//while both conditions are true it will print nothing
 // In xor operation while one condition is ture it will print output ..
 
 
-//if()
-
 
 ?>
 </body>
